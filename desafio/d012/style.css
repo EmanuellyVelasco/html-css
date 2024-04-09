@@ -47,7 +47,7 @@ pre{
     font-size: 3.5vw;
     text-align: left;
     line-height: 7vw;
-    margin: 30px 60px;
+    margin: 30px 0px 30px 40px;
 }
 
 #fundoflor > pre{
@@ -64,7 +64,7 @@ pre{
     background-position: right bottom;
     background-size: cover;
     height: 70vw;
-    margin: 0px -60px;
+    margin: 0px 0px 0px -40px;
 }
 
 #fundocarta{
@@ -73,7 +73,7 @@ pre{
     background-position: left bottom;
     background-size: cover;
     height: 70vw;
-    margin: 0px -60px;
+    margin: 0px 0px 0px -40px;
 
 }
 
